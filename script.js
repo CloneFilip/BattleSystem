@@ -82,8 +82,8 @@ function EraImage(form) {
 			var DLightCavalryEff = 0.85 * 1;
 			var DHeavyCavalryEff = 1.1 * 1;
 			var DCannonsEff = 25 * 1;
-			var DEliteInfantryEff = 1.25 * 1;
-			var DEliteCavalryEff = 1.35 * 1;
+			var DEliteInfantryEff = 1.3 * 1;
+			var DEliteCavalryEff = 1.4 * 1;
 			
 			var ALeviesEff = 0.25 * 1;
 			var AMilitiaEff = 0.5 * 1;
