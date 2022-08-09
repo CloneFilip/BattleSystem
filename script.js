@@ -97,8 +97,8 @@ function EraImage(form) {
 			var ALightCavalryEff = 0.85 * 1;
 			var AHeavyCavalryEff = 1.1 * 1;
 			var ACannonsEff = 25 * 1;
-			var AEliteInfantryEff = 1.25 * 1;
-			var AEliteCavalryEff = 1.35 * 1;
+			var AEliteInfantryEff = 1.3 * 1;
+			var AEliteCavalryEff = 1.4 * 1;
 			
 		}
 		
