@@ -83,7 +83,7 @@ function EraImage(form) {
 			var DHeavyCavalryEff = 1.1 * 1;
 			var DCannonsEff = 25 * 1;
 			var DEliteInfantryEff = 1.25 * 1;
-			var DEliteCavalryEff = 1.25 * 1;
+			var DEliteCavalryEff = 1.35 * 1;
 			
 			var ALeviesEff = 0.25 * 1;
 			var AMilitiaEff = 0.5 * 1;
@@ -98,7 +98,7 @@ function EraImage(form) {
 			var AHeavyCavalryEff = 1.1 * 1;
 			var ACannonsEff = 25 * 1;
 			var AEliteInfantryEff = 1.25 * 1;
-			var AEliteCavalryEff = 1.25 * 1;
+			var AEliteCavalryEff = 1.35 * 1;
 			
 		}
 		
@@ -263,8 +263,8 @@ function EraImage(form) {
 			DHandCannoneersEff = DHandCannoneersEff * 1.15;
 			DMusketeersEff = DMusketeersEff * 1.15;
 			DRiflemenEff = DRiflemenEff * 1.15;
-			DLightCavalryEff = DLightCavalryEff * 1.05;
-			DHeavyCavalryEff = DHeavyCavalryEff * 1.05;
+			DLightCavalryEff = DLightCavalryEff * 1;
+			DHeavyCavalryEff = DHeavyCavalryEff * 1;
 			DCannonsEff = DCannonsEff * 1.2;
 			DEliteInfantryEff = DEliteInfantryEff * 1.15;
 			DEliteCavalryEff = DEliteCavalryEff * 1.15;
@@ -311,7 +311,7 @@ function EraImage(form) {
 			AMusketeersEff = AMusketeersEff * 0.8;
 			ARiflemenEff = ARiflemenEff * 1.2;
 			ALightCavalryEff = ALightCavalryEff * 0.4;
-			AHeavyCavalryEff = AHeavyCavalryEff * 0.4;
+			AHeavyCavalryEff = AHeavyCavalryEff * 0.3;
 			ACannonsEff = ACannonsEff * 0.3;
 			AEliteInfantryEff = AEliteInfantryEff * 1.6;
 			AEliteCavalryEff = AEliteCavalryEff * 0.5;
@@ -327,8 +327,8 @@ function EraImage(form) {
 			DHandCannoneersEff = DHandCannoneersEff * 1.25;
 			DMusketeersEff = DMusketeersEff * 1.25;
 			DRiflemenEff = DRiflemenEff * 1.5;
-			DLightCavalryEff = DLightCavalryEff * 0.5;
-			DHeavyCavalryEff = DHeavyCavalryEff * 0.4;
+			DLightCavalryEff = DLightCavalryEff * 0.4;
+			DHeavyCavalryEff = DHeavyCavalryEff * 0.3;
 			DCannonsEff = DCannonsEff;
 			DEliteInfantryEff = DEliteInfantryEff * 1.3;
 			DEliteCavalryEff = DEliteCavalryEff * 0.5;
