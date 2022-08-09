@@ -1,0 +1,79 @@
+	body {
+		font-family: Consolas;
+	}
+	
+	.Defenders {
+		border-color: blue;
+		border-style: solid;
+		border-width: 2px;
+		width: 500px;
+		height: 600px;
+		float: left;
+		text-align: center;
+	}
+	
+	.Settings {
+		border-color: grey;
+		border-style: solid;
+		border-width: 2px;
+		width: 500px;
+		height: 600px;
+		float: left;
+		text-align: center;
+	}
+	
+	.Attackers {
+		border-color: red;
+		border-style: solid;
+		border-width: 2px;
+		width: 500px;
+		height: 600px;
+		float: left;
+		text-align: center;
+	}
+	
+	.Results {
+		border-color: grey;
+		border-style: solid;
+		border-width: 2px;
+		width: 1508px;
+		height: 600px;
+		float: left;
+		text-align: center;
+	}
+	
+	.button {
+		width: 100px;
+		height: 60px;
+		font-size: 24px;
+	}
+	
+	#defresults {
+		border-color: blue;
+		border-style: solid;
+		border-width: 1px;
+		width: 500px;
+		height: 518px;
+		float: left;
+		text-align: center;
+	}
+	
+	#mainresults {
+		border-color: grey;
+		border-style: solid;
+		border-width: 2px;
+		width: 500px;
+		height: 518px;
+		float: left;
+		text-align: center;
+	}
+	
+	#atkresults {
+		border-color: red;
+		border-style: solid;
+		border-width: 1px;
+		width: 500px;
+		height: 518px;
+		float: left;
+		text-align: center;
+	}
