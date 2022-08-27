@@ -70,7 +70,7 @@ function EraImage(form) {
 		AGMTacticsAdvantage = document.getElementById('AGMTacticsAdvantage').value * 1;
 		
 		if(Era=="PikeNShot") {
-			var DLeviesEff = 0.35 * 1;
+			var DLeviesEff = 0.25 * 1;
 			var DMilitiaEff = 0.5 * 1;
 			var DLightInfantryEff = 0.7 * 1;
 			var DHeavyInfantryEff = 1 * 1;
@@ -104,7 +104,7 @@ function EraImage(form) {
 		
 		if(Era=="LineWarfare") {
 			var DLeviesEff = 0.2 * 1;
-			var DMilitiaEff = 0.75 * 1;
+			var DMilitiaEff = 0.5 * 1;
 			var DLightInfantryEff = 0.5 * 1;
 			var DHeavyInfantryEff = 0.4 * 1;
 			var DArchersEff = 0.25 * 1;
@@ -119,7 +119,7 @@ function EraImage(form) {
 			var DEliteCavalryEff = 1.75 * 1;
 			
 			var ALeviesEff = 0.2 * 1;
-			var AMilitiaEff = 0.75 * 1;
+			var AMilitiaEff = 0.5 * 1;
 			var ALightInfantryEff = 0.5 * 1;
 			var AHeavyInfantryEff = 0.4 * 1;
 			var AArchersEff = 0.25 * 1;
