@@ -718,17 +718,17 @@ function EraImage(form) {
 				DCasualtyRate = DCasualtyRate * 0.85;
 				ACasualtyRate = ACasualtyRate * 1.1;
 			}
-			if(River=="SmallBehindDefender") {
-				DCasualtyRate = DCasualtyRate * 1.1;
+			if(River=="SmallBehindDefender" && (APower > DPower)) {
+				DCasualtyRate = DCasualtyRate * 1.15;
 			}
-			if(River=="SmallBehindAttacker") {
-				ACasualtyRate = ACasualtyRate * 1.1;
+			if(River=="SmallBehindAttacker" && (DPower > APower)) {
+				ACasualtyRate = ACasualtyRate * 1.15;
 			}
-			if(River=="BigBehindDefender") {
-				DCasualtyRate = DCasualtyRate * 1.25;
+			if(River=="BigBehindDefender" && (APower > DPower)) {
+				DCasualtyRate = DCasualtyRate * 1.3;
 			}
-			if(River=="BigBehindAttacker") {
-				ACasualtyRate = ACasualtyRate * 1.25;
+			if(River=="BigBehindAttacker" && (DPower > APower)) {
+				ACasualtyRate = ACasualtyRate * 1.3;
 			}
 			
 			DCasualtyRate = Math.max(DCasualtyRate, 0.005);
