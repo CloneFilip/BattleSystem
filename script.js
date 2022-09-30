@@ -113,7 +113,7 @@ function EraImage(form) {
 			var DMusketeersEff = 1.25 * 1;
 			var DRiflemenEff = 1.5 * 1;
 			var DLightCavalryEff = 1.2 * 1;
-			var DHeavyCavalryEff = 1.2 * 1;
+			var DHeavyCavalryEff = 1.35 * 1;
 			var DCannonsEff = 50 * 1;
 			var DEliteInfantryEff = 1.75 * 1;
 			var DEliteCavalryEff = 1.75 * 1;
@@ -128,7 +128,7 @@ function EraImage(form) {
 			var AMusketeersEff = 1.25 * 1;
 			var ARiflemenEff = 1.5 * 1;
 			var ALightCavalryEff = 1.2 * 1;
-			var AHeavyCavalryEff = 1.2 * 1;
+			var AHeavyCavalryEff = 1.35 * 1;
 			var ACannonsEff = 50 * 1;
 			var AEliteInfantryEff = 1.75 * 1;
 			var AEliteCavalryEff = 1.75 * 1;
@@ -146,7 +146,7 @@ function EraImage(form) {
 			var DMusketeersEff = 1.25 * 1;
 			var DRiflemenEff = 2.5 * 1;
 			var DLightCavalryEff = 1.3 * 1;
-			var DHeavyCavalryEff = 1.3 * 1;
+			var DHeavyCavalryEff = 1.35 * 1;
 			var DCannonsEff = 100 * 1;
 			var DEliteInfantryEff = 3 * 1;
 			var DEliteCavalryEff = 2.5 * 1;
@@ -161,7 +161,7 @@ function EraImage(form) {
 			var AMusketeersEff = 1.25 * 1;
 			var ARiflemenEff = 2.5 * 1;
 			var ALightCavalryEff = 1.3 * 1;
-			var AHeavyCavalryEff = 1.3 * 1;
+			var AHeavyCavalryEff = 1.35 * 1;
 			var ACannonsEff = 100 * 1;
 			var AEliteInfantryEff = 3 * 1;
 			var AEliteCavalryEff = 2.5 * 1;
